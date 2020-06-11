@@ -1,6 +1,7 @@
 # nuxt-fundamentals
+# https://brunobnahorny.github.io/Nuxt-Fundamentals/
 
-> My hunky-dory Nuxt.js project
+>Study project about Nuxt.js 
 
 ## Build Setup
 
