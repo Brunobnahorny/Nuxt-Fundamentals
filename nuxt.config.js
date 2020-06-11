@@ -2,7 +2,8 @@ export default {
   mode: "universal",
 
   generate: {
-    routes: ["/posts/balut", "/posts/casumarzu", "/posts/hakarl"]
+    routes: ["/posts/balut", "/posts/casumarzu", "/posts/hakarl"],
+    base: "/Nuxt-Fundamentals/"
   },
   /*
    ** Headers of the page
