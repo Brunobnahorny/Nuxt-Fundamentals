@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">nuxt-fundamentals</h1>
-      <h2 class="subtitle">My hunky-dory Nuxt.js project</h2>
+      <h2 class="subtitle">Um projeto de estudo</h2>
     </div>
   </div>
 </template>
